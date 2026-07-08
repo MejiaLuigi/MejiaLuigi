@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my space 🔥</h1>
 
 <p align="center">
-  <strong>Luis Mejía</strong> | Frontend Developer | Web UI Specialist  
+  <strong>Luis Mejía</strong> | Fullstack Developer | Frontend Specialist  
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 
-I’m a passionate **Frontend Developer** focused on building clean, functional interfaces with smooth user experiences. My main stack includes **React**, **JavaScript**, **HTML/CSS**, and tools like **Figma** and **Visual Studio Code**.
+I’m a passionate **Fullstack Developer** focused on building clean, functional interfaces with smooth user experiences. My main stack includes **React**, **React Native**, **JavaScript**, **Node JS**, and tools like **Figma** and **Visual Studio Code**.
 
 I'm also interested in accessibility, performance optimization, and secure API integration using **JWT**. Currently learning more about **React Native** and **Domain-Driven Design (DDD)** for scalable projects.
 
@@ -55,8 +55,8 @@ I'm also interested in accessibility, performance optimization, and secure API i
 
 ### 📌 Featured Projects
 
+- 🌐 [Landing Page](https://luigiuchiha.vercel.app): This is my Landing Page with my diferents Social Medias.
 - 🌎 [FindYourCountries](https://github.com/MejiaLuigi/find_your_countrie): Find countries with ease using a fast, modern Next.js app.
-- 🧠 [Memory Game JS](https://github.com/MejiaLuigi/Juego_Cartas_Memoria): A classic memory game built with vanilla JavaScript.
 - 🎴 [Magazine Cover CSS](https://mejialuigi.github.io/Challenge_CSS_Training): A stylish magazine cover designed with the power of Sass.
 - 🌐 [Web Project Fabian Villada](https://github.com/MejiaLuigi/Fabian_Villada): Building trust through transparency—web design for a public servant.
 
@@ -65,7 +65,7 @@ I'm also interested in accessibility, performance optimization, and secure API i
 ### 📫 Let’s Connect
 
 - 📧 hoyosmejia14o6@gmail.com  
-- 🌐 [LinkedIn](www.linkedin.com/in/luis-hoyos-mejia-731a78243).
+- 🌐 [LinkedIn](www.linkedin.com/in/luis-hoyos-mejia).
 - 💬 Open to collaboration, learning, and building awesome things together.
 
 ---
